@@ -1,21 +1,15 @@
 # Street Style Landing Page
 **Description** - A landing Page created using HTML and CSS.
-<hr>
 
-## My Learnings -
+## My Learnings
 - HTML Tags - List, Button, Image
 - CSS - Position, Margin, Padding
-<hr>
 
-## Completion Time -
+## Completion Time
 2 Hours
 
-<hr>
-
-## Live Preview - 
+## Live Preview
 - [Deployed Link](https://illustrious-sunburst-ccccbc.netlify.app/)
 
-<hr>
-
-## Screenshot -
+## Screenshot
 ![Thumbnail](./1.png)
